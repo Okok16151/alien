@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-54,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				62,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-16,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-60,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				-144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-62
+			],
+			"anim": "Shoot",
+			"fps": 24,
+			"name": "shot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hominid",
+	"position": [
+		-150,
+		140
+	],
+	"healthicon": "hominid",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		255,
+		0
+	],
+	"camera_position": [
+		-110,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
