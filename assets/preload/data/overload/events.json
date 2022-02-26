@@ -1,0 +1,799 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "hominidcity",
+		"player1": "bfhominid",
+		"player2": "hominid",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				12315.7894736842,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				22105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				22263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				22421.0526315789,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				22578.9473684211,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				32210.5263157895,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				32526.3157894737,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				32684.2105263158,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				42315.7894736842,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				42631.5789473684,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				42789.4736842105,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				86842.1052631578,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				87315.7894736841,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				87473.6842105262,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				87631.5789473683,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				87947.3684210525,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				88105.2631578946,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				88263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				88736.8421052631,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				89368.4210526315,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				89842.1052631578,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				89999.9999999999,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				90157.894736842,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				90473.6842105262,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				90631.5789473683,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				90789.4736842104,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				90947.3684210525,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				91263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				92210.5263157894,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				92368.4210526315,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				92526.3157894736,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				92684.2105263157,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				94105.2631578946,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				95368.4210526315,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				96157.894736842,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				96315.7894736841,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				96473.6842105262,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				96789.4736842104,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				96947.3684210525,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				97105.2631578946,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				97263.1578947367,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				97578.947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				98052.6315789473,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				98210.5263157894,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				98368.4210526315,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				98684.2105263157,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				98842.1052631578,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				98999.9999999999,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				99315.7894736841,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				99473.6842105262,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				99631.5789473683,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				100105.263157895,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				100263.157894737,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				100578.947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				100736.842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				101052.631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				101368.421052631,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				102315.789473684,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				102473.684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				102631.578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				102789.47368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				104210.526315789,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				105473.684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				133263.157894737,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				133578.947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				133736.842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				134526.315789474,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				134842.105263158,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				135789.47368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				135947.368421053,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				136263.157894737,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				143368.421052632,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				143684.210526316,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				143842.105263158,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				144631.578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				144947.368421053,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFfatkid",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Overload"
+	}
+}
