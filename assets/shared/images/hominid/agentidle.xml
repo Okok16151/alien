@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agentidle.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle00000" x="0" y="0" width="419" height="628"/>
+	<SubTexture name="idle00001" x="0" y="0" width="419" height="628"/>
+	<SubTexture name="idle00002" x="419" y="0" width="419" height="628"/>
+	<SubTexture name="idle00003" x="419" y="0" width="419" height="628"/>
+	<SubTexture name="idle00004" x="0" y="628" width="419" height="628"/>
+	<SubTexture name="idle00005" x="0" y="628" width="419" height="628"/>
+	<SubTexture name="idle00006" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00007" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00008" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00009" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00010" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00011" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00012" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00013" x="419" y="628" width="419" height="628"/>
+	<SubTexture name="idle00014" x="419" y="628" width="419" height="628"/>
+</TextureAtlas>

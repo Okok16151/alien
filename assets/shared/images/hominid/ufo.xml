@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ufo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ship0000" x="0" y="0" width="1017" height="666"/>
+	<SubTexture name="ship0001" x="0" y="0" width="1017" height="666"/>
+	<SubTexture name="ship0002" x="1017" y="0" width="1017" height="666"/>
+	<SubTexture name="ship0003" x="1017" y="0" width="1017" height="666"/>
+	<SubTexture name="ship0004" x="0" y="666" width="1017" height="666"/>
+	<SubTexture name="ship0005" x="0" y="666" width="1017" height="666"/>
+	<SubTexture name="ship0006" x="1017" y="666" width="1017" height="666"/>
+	<SubTexture name="ship0007" x="1017" y="666" width="1017" height="666"/>
+	<SubTexture name="ship0008" x="0" y="1332" width="1017" height="666"/>
+	<SubTexture name="ship0009" x="0" y="1332" width="1017" height="666"/>
+	<SubTexture name="ship0010" x="1017" y="1332" width="1017" height="666"/>
+	<SubTexture name="ship0011" x="1017" y="1332" width="1017" height="666"/>
+	<SubTexture name="ship0012" x="0" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0013" x="0" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0014" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0015" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0016" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0017" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0018" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0019" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0020" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0021" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0022" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0023" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0024" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0025" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0026" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0027" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0028" x="1017" y="1998" width="1017" height="666"/>
+	<SubTexture name="ship0029" x="1017" y="1998" width="1017" height="666"/>
+</TextureAtlas>

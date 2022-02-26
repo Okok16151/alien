@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agent.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="agentidle0000" x="0" y="0" width="1165" height="953"/>
+	<SubTexture name="agentidle0001" x="0" y="0" width="1165" height="953"/>
+	<SubTexture name="agentidle0002" x="1165" y="0" width="1165" height="953"/>
+	<SubTexture name="agentidle0003" x="1165" y="0" width="1165" height="953"/>
+	<SubTexture name="agentidle0004" x="2330" y="0" width="1165" height="953"/>
+	<SubTexture name="agentidle0005" x="2330" y="0" width="1165" height="953"/>
+	<SubTexture name="agentidle0006" x="0" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0007" x="0" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0008" x="1165" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0009" x="1165" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0010" x="2330" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0011" x="2330" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0012" x="2330" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0013" x="2330" y="953" width="1165" height="953"/>
+	<SubTexture name="agentidle0014" x="2330" y="953" width="1165" height="953"/>
+	<SubTexture name="shot0000" x="0" y="1906" width="1165" height="953"/>
+	<SubTexture name="shot0001" x="0" y="1906" width="1165" height="953"/>
+	<SubTexture name="shot0002" x="1165" y="1906" width="1165" height="953"/>
+	<SubTexture name="shot0003" x="1165" y="1906" width="1165" height="953"/>
+	<SubTexture name="shot0004" x="2330" y="1906" width="1165" height="953"/>
+	<SubTexture name="shot0005" x="2330" y="1906" width="1165" height="953"/>
+	<SubTexture name="shot0006" x="0" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0007" x="0" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0008" x="1165" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0009" x="1165" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0010" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0011" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0012" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0013" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0014" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0015" x="0" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0016" x="0" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0017" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0018" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0019" x="1165" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0020" x="1165" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0021" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0022" x="2330" y="2859" width="1165" height="953"/>
+	<SubTexture name="shot0023" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0024" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0025" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0026" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0027" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0028" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0029" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0030" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0031" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0032" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0033" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0034" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0035" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0036" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0037" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0038" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0039" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0040" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0041" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0042" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0043" x="2330" y="3812" width="1165" height="953"/>
+	<SubTexture name="shot0044" x="2330" y="3812" width="1165" height="953"/>
+</TextureAtlas>
