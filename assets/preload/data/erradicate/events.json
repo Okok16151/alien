@@ -1,0 +1,1139 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "hominidcity",
+		"player1": "bf",
+		"player2": "hominid",
+		"player3": null,
+		"events": [
+			[
+				4736.84210526316,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						"0"
+					]
+				]
+			],
+			[
+				5052.63157894737,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				6315.78947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				7578.94736842105,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				8842.10526315789,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				9473.68421052631,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				9789.47368421052,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				9947.36842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				19263.1578947368,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"450"
+					]
+				]
+			],
+			[
+				19578.947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				20210.5263157895,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						"0"
+					]
+				]
+			],
+			[
+				30315.7894736842,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				30947.3684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				31578.9473684211,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				31894.7368421053,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				32210.5263157895,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				32526.3157894737,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				33473.6842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				33631.5789473684,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				33789.4736842105,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				33947.3684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				34105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				34736.8421052632,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				35368.4210526316,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				36631.5789473684,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				37263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				37894.7368421053,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				39157.8947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				44842.1052631579,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"450"
+					]
+				]
+			],
+			[
+				45473.6842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				46105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				46421.0526315789,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46736.8421052631,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				47052.6315789474,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				47368.4210526316,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				48631.5789473684,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				48789.4736842105,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				48947.3684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				49105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				49263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				49894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				54947.3684210526,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"450"
+					]
+				]
+			],
+			[
+				55894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				56526.3157894737,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				56842.1052631579,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57157.8947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				57473.6842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				57789.4736842105,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				58421.0526315789,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				59052.6315789473,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				59210.5263157894,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				59684.2105263158,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				65368.4210526315,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						"0"
+					]
+				]
+			],
+			[
+				65684.2105263157,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				66947.3684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				67105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				67263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				67578.947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				67736.8421052631,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				67894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				68210.5263157894,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				68526.3157894736,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				68842.1052631578,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				69473.6842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				70105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				70421.0526315789,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				75157.894736842,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"450"
+					]
+				]
+			],
+			[
+				75789.4736842105,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				76105.2631578947,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				76421.0526315789,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77052.6315789473,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				77210.5263157894,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				77368.4210526315,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				77684.2105263157,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				77842.1052631578,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				77999.9999999999,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				78315.7894736841,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				78631.5789473684,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				78947.3684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				79578.947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				79894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				85578.947368421,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						"0"
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				86052.6315789473,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				86210.5263157894,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				86526.3157894736,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				86684.2105263157,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				86842.1052631578,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				86999.9999999999,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				87473.6842105262,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				87789.4736842104,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				87947.3684210525,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				88105.2631578946,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				88421.0526315789,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				88736.8421052631,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				89052.6315789473,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				89684.2105263157,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				89999.9999999999,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				115578.947368421,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"450"
+					]
+				]
+			],
+			[
+				116210.526315789,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				117157.894736842,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117473.684210526,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				118736.842105263,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						"0"
+					]
+				]
+			],
+			[
+				126315.789473684,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				127578.947368421,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				128842.105263158,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				130105.263157895,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFfatkid",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Erradicate"
+	}
+}
